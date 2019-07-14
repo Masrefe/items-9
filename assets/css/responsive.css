@@ -1,0 +1,133 @@
+/* Medium Layout: 1280px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) { 
+   
+    
+}
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) { 
+.hero-content {
+	padding: 27px 0;
+}
+.hero-area {
+	padding: 0;
+}
+.hero-btn a {
+  width: 50%;
+  margin-top: 10px;
+  display: inline-block;
+}
+.hero-content p {
+  margin-bottom: 10px;
+}
+.hero-content h1 {
+  font-size: 25px;
+}
+.about-icon {
+	position: static;
+	margin-bottom: 10px;
+} 
+.single-about {
+	position: static;
+	padding-right: 0px;
+	margin-bottom: 10px;
+	margin-top: 50px;
+	text-align: left;
+}
+.right-about .single-about {
+	padding-left: 0px;
+}
+.about-img img {
+	margin-top: 305px;
+}
+.counter-box p {
+	font-size: 30px;
+}
+.counter-box h5 {
+	font-size: 14px;
+}
+.news-athour {
+	display: none;
+}
+.addres-box {
+	padding-bottom: 32px;
+}
+}
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) { 
+.mean-container a.meanmenu-reveal {
+  border: 1px solid #0096FF;
+  color: #0096FF;
+  margin-top: -50px;
+}
+.mean-container a.meanmenu-reveal span {
+  background: #0096FF;
+}
+.main-nav li {
+  background: #0096FF;
+}
+.hero-content {
+	padding: 27px 0;
+}
+.hero-area {
+	padding: 0;
+}
+.hero-btn a {
+  width: 50%;
+  margin-top: 10px;
+  display: inline-block;
+}
+.hero-content p {
+  margin-bottom: 10px;
+}
+.hero-content h1 {
+  font-size: 25px;
+}
+.about-icon {
+	position: static;
+	margin-bottom: 10px;
+} 
+.single-about {
+	position: static;
+	padding-right: 0px;
+	margin-bottom: 10px;
+	margin-top: 50px;
+	text-align: left;
+}
+.right-about .single-about {
+	padding-left: 0px;
+}
+.about-img img {
+	margin-top: 305px;
+}
+.counter-box p {
+	font-size: 30px;
+}
+.counter-box h5 {
+	font-size: 14px;
+}
+.news-athour img {
+	left: 35px;
+} 
+.addres-box {
+	padding-bottom: 32px;
+}
+.hero-right, .call-img, .about-img  {
+	display: none;
+}  
+.counter-box {
+	margin-bottom: 30px;
+}
+.news-athour img {
+	left: 182px;
+}
+.contact-form {
+	margin-top: 20px;
+}
+.news-athour {
+	display: none;
+}
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+
+}
